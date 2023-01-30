@@ -83,7 +83,7 @@ Este *glitch* fue reportado mediante el *[Bug Bounty Program](https://www.facebo
 
 ## Conclusión ##
 
-Enviar imágenes comprometedoras o con información sensible con la intención de que sólo pueda ser reproducida una vez por la persona a la que se le envía no garantiza la privacidad, ya que se ha demostrado que un destinatario o contacto malintencionado podría configurar una ROM personalizada o simplemente usar un emulador como el demostrado para capturar la imagen y distribuirla.
+Enviar imágenes comprometedoras o con información sensible con la intención de que sólo pueda ser reproducida una vez por la persona a la que se le envía no garantiza la privacidad, ya que se ha demostrado que un destinatario o contacto malintencionado podría configurar una ROM personalizada o simplemente un entorno donde use un emulador como el demostrado para capturar el contenido multimedia y distribuirlo.
 
 ## Advertencia ##
 
