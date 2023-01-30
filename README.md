@@ -1,4 +1,4 @@
-# WhatsApp_PoC_Once_Image# Bypass a la protección de capturas de pantalla de una única visualización usando Geanymotion. #
+# Bypass a la protección de capturas de pantalla de una única visualización usando Geanymotion. #
 
 ## Introducción ##
 
