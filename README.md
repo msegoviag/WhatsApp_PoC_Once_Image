@@ -52,7 +52,7 @@ Durante el proceso de registro con el número de teléfono WhatsApp detectará q
 
 ![](https://github.com/msegoviag/WhatsApp_PoC_Once_Image/blob/main/08.jpg?raw=true)
 
-Una vez el entorno configurado en esta **prueba de concepto** se procede a enviar a un **contacto malintencionado** una imagen de una única visualización, la cual no debería poder ver más de una vez, efectuar captura de pantalla ni compartirla.
+Una vez el entorno configurado en esta **prueba de concepto** se procede a enviar a un **contacto malintencionado** una imagen de una única visualización, la cual no debería poder ver más de una vez, tampoco efectuar una captura de pantalla ni compartirla.
 
 ![](https://github.com/msegoviag/WhatsApp_PoC_Once_Image/blob/main/09.jpg?raw=true)
 
