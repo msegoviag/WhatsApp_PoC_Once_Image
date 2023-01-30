@@ -60,7 +60,7 @@ El contacto al que se le envía la imagen de una única visualización ha config
 
 ![](https://github.com/msegoviag/WhatsApp_PoC_Once_Image/blob/main/10.jpg?raw=true)
 
-Una vez efectuada la adquisición de la imagen haciendo uso de la opción de captura de pantalla nativa de Geanymotion la imagen estará disponible en la galería del dispositivo virtual. Se podrá visualizar tantas veces como se desee y compartirla con cualquiera.
+Una vez efectuada la adquisición de la imagen haciendo uso de la opción de captura de pantalla nativa de Geanymotion, la imagen estará disponible en la galería del dispositivo virtual. Se podrá visualizar tantas veces como se desee y compartirla con cualquiera.
 
 ![](https://github.com/msegoviag/WhatsApp_PoC_Once_Image/blob/main/11.jpg?raw=true)
 
@@ -90,5 +90,5 @@ Enviar imágenes comprometedoras o con información sensible con la intención d
 El autor no se hace responsable de los daños que pueda causar el uso de las herramientas y pasos anteriores. El propósito de esta prueba de concepto es puramente educativo, el objetivo final es concienciar a los usuarios sobre la ciberseguridad y hacerles entender que enviar contenido multimedia privado, secreto o comprometedor con la garantía de que serán vistos una vez y nunca más, es un error. La privacidad absoluta no existe en Internet y eliminar de la red los contenidos que se han subido es casi imposible.
 
 ## Más información ##
-- https://faq.whatsapp.com/1077018839582332/
-- https://screenshieldkit.com/
+- [https://faq.whatsapp.com/1077018839582332/](https://faq.whatsapp.com/1077018839582332/)
+- [https://screenshieldkit.com/](https://screenshieldkit.com/)
