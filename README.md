@@ -48,7 +48,7 @@ Una vez descargado e instalado el dispositivo virtual se ejecuta y se instalan l
 
 ![](https://github.com/msegoviag/WhatsApp_PoC_Once_Image/blob/main/07.jpg?raw=true)
 
-Durante el proceso de registro en WhatsApp con el número de teléfono se detectará que se está realizando en un dispositivo virtual o ROM, se seguirá con el proceso hasta finalizar el registro en el dispositivo y poder hacer uso normal de WhatsApp como se haría con un móvil físico.
+Durante el proceso de registro con el número de teléfono WhatsApp detectará que se está realizando en un dispositivo virtual o ROM, se seguirá con el proceso hasta finalizar el registro en el dispositivo y poder hacer uso normal de WhatsApp como se haría con un móvil físico.
 
 ![](https://github.com/msegoviag/WhatsApp_PoC_Once_Image/blob/main/08.jpg?raw=true)
 
