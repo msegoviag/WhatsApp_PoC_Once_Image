@@ -70,7 +70,7 @@ Esta prueba de concepto finaliza reenviando al usuario la misma imagen protegida
 
 ## ¿Cómo podría mitigarse? ##
 
-Una solución podría ser implementar una restricción específica para ROMs y emuladores de Android y así evitar que las imágenes y vídeos que solo se pueden reproducir una vez se reproduzcan directamente en entornos móviles auténticos. La capacidad de detección ya está implementada, como se puede ver en el apartado **Conociendo las protecciones** de este artículo, solo es necesario activar esta restricción, al igual que ya se hace en WhatsApp Web / PC, donde se impide al usuario ver la imagen si no es en un móvil (con la intención de evitar capturas de pantalla desde PC)
+Una solución podría ser implementar una restricción específica para ROMs y emuladores de Android y así evitar que las imágenes y vídeos que solo se pueden reproducir una vez se reproduzcan únicamente en dispositivos móviles auténticos. La capacidad de detección ya está implementada, como se puede ver en el apartado **Conociendo las protecciones** de este artículo, solo es necesario activar esta restricción, al igual que ya se hace en WhatsApp Web / PC, donde se impide al usuario reproducir la imagen de una única visualización si no lo hace desde un móvil, con la intención de evitar capturas de pantalla desde el navegador.
 
 
 ## Respuesta de Meta ##
