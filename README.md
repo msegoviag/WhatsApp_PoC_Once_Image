@@ -33,7 +33,7 @@ Se podría pensar que quizás usando **WhatsApp Web / PC** y abriendo la imagen 
 
 ![](https://github.com/msegoviag/WhatsApp_PoC_Once_Image/blob/main/03.jpg?raw=true)
 
-## Evitando las protecciones ##
+## Evadiendo las protecciones ##
 
 Desde la web de [Geanymotion](https://www.genymotion.com/download/) se descargará el instalador del emulador, es posible descargar una versión con VirtualBox y otra sin VirtualBox, si ya se tiene VirtualBox instalado bastará con descargar la versión más ligera e instalarla. Durante la instalación hay que especificar que el uso que se hará será personal para poder usar la aplicación gratuitamente.
 
